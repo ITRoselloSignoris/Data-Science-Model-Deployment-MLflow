@@ -2,12 +2,11 @@ import pandas as pd
 import pickle
 import requests
 import json
-from fastapi.encoders import jsonable_encoder
 
-# RECORDAR LEVANTAR EL SERVER, puerto de ejemplo: 1234
+# RECORDAR LEVANTAR EL SERVER, example port: 1234
 # mlflow models serve --model-uri models:/My_model/Production -p 1234 --no-conda
 
-#
+#Local Host Url
 url = "http://127.0.0.1:1234/invocations"
 
 #Load categories
