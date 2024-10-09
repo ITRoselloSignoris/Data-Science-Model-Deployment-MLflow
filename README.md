@@ -1,29 +1,24 @@
-# Model Deployment with FastAPI
+# Model Deployment
 ## Project description
 
 ## Methods used
-- Data visualization
 - Data preparation
 - Model training
 - Model evaluation
-- Model deployment with API 
+- Model deployment
 
 ## Technologies
 - <ins>**Data Preparation**</ins>: funpymodeling and pandas.
 - <ins>**Model Training**</ins>: sklearn.
-- <ins>**Data Visualization**</ins>: seaborn, matplotlib.
-- <ins>**API**</ins>: FastAPI, uvicorn, pydantic, and requests.
+- <ins>**API**</ins>: FastAPI, requests, mlflow and json.
 - <ins>**Others**</ins>: numpy and pickles.
 
 ## Installation
 1. Clone the repository:  
-`git clone https://github.com/ITRoselloSignoris/Data-Science-Model-Deployment-`
+`git clone https://github.com/ITRoselloSignoris/Data-Science-Model-Deployment-MLflow`
 
 2. Install the necessary libraries inside the requirements.txt:  
 `pip install -r requirements.txt`
 
-## Results
-![plot](results/image.png)
 ## To-Do list
-- [ ] 
-- [X]
+- [ ] Write project description
