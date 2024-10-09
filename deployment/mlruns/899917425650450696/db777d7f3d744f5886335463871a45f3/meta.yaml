@@ -1,0 +1,15 @@
+artifact_uri: /home/alumni/Programación/Bootcamp Data Science y MLops/Material/Semana9/Tarea/src/notebook/../../deployment/mlruns/899917425650450696/db777d7f3d744f5886335463871a45f3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '899917425650450696'
+lifecycle_stage: active
+run_id: db777d7f3d744f5886335463871a45f3
+run_name: tasteful-calf-578
+run_uuid: db777d7f3d744f5886335463871a45f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728074853522
+status: 1
+tags: []
+user_id: alumni
