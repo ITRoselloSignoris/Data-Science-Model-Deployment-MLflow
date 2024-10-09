@@ -10,7 +10,7 @@
 ## Technologies
 - <ins>**Data Preparation**</ins>: funpymodeling and pandas.
 - <ins>**Model Training**</ins>: sklearn.
-- <ins>**API**</ins>: FastAPI, requests, mlflow and json.
+- <ins>**Deployment**</ins>: FastAPI, requests, mlflow and json.
 - <ins>**Others**</ins>: numpy and pickles.
 
 ## Installation
